@@ -1,0 +1,7 @@
+C:\Users\Aeonyphiel\source\repos\JapaneseNameGenerator\JapaneseNameGenerator\bin\Debug\JapaneseNameGenerator.exe.config
+C:\Users\Aeonyphiel\source\repos\JapaneseNameGenerator\JapaneseNameGenerator\bin\Debug\JapaneseNameGenerator.exe
+C:\Users\Aeonyphiel\source\repos\JapaneseNameGenerator\JapaneseNameGenerator\bin\Debug\JapaneseNameGenerator.pdb
+C:\Users\Aeonyphiel\source\repos\JapaneseNameGenerator\JapaneseNameGenerator\obj\Debug\JapaneseNameGenerator.csprojAssemblyReference.cache
+C:\Users\Aeonyphiel\source\repos\JapaneseNameGenerator\JapaneseNameGenerator\obj\Debug\JapaneseNameGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Aeonyphiel\source\repos\JapaneseNameGenerator\JapaneseNameGenerator\obj\Debug\JapaneseNameGenerator.exe
+C:\Users\Aeonyphiel\source\repos\JapaneseNameGenerator\JapaneseNameGenerator\obj\Debug\JapaneseNameGenerator.pdb
